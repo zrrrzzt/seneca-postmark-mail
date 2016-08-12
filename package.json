@@ -1,6 +1,6 @@
 {
   "name": "seneca-postmark-mail",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Seneca postmarkapp.com email plugin",
   "main": "lib/postmark.js",
   "scripts": {
