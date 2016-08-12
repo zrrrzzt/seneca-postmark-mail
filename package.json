@@ -18,6 +18,9 @@
     "plugin"
   ],
   "author": "Richard Rodger (http://richardrodger.com)",
+  "contributors": [
+    "Geir Gåsodden (https://github.com/zrrrzzt)"
+  ],
   "license": "MIT",
   "dependencies": {
     "postmark": "1.2.1",
