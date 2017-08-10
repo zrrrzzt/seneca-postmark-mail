@@ -27,7 +27,7 @@
     "underscore": "1.8.3"
   },
   "devDependencies": {
-    "seneca": "3.3.0",
+    "seneca": "3.4.2",
     "seneca-mail": "0.2.2"
   },
   "files": [
